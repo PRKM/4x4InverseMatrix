@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\projects\xnatest\xnatest\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\projects\xnatest\xnatest\main.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  XNATest.vcxproj -> E:\Projects\XNATest\Debug\XNATest.exe
